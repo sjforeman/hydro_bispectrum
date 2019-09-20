@@ -1,10 +1,10 @@
-# Bispectrum from hydrodynamical simulations
+# Bispectra from hydrodynamical simulations
 
 This repository contains power spectrum and bispectrum measurements presented in the following paper:
 
 > Foreman et al., *title*, 2019, arXiv:19mm.xxxxx
 
-These measurements were made with the [bskit](github.com/sjforeman/bskit) code from the IllustrisTNG, Illustris, EAGLE, and BAHAMAS simulation suites at redshifts 0, 1, 2, and 3. Please refer to that paper for more details about the measurement procedures and choices involved.
+These measurements were made with the [bskit](github.com/sjforeman/bskit) code from the IllustrisTNG, Illustris, EAGLE, and BAHAMAS simulation suites at redshifts 0, 1, 2, and 3. Please refer to the paper for more details about the measurement procedures and choices involved.
 
 ## File formats
 
