@@ -6,6 +6,8 @@ This repository contains power spectrum and bispectrum measurements presented in
 
 These measurements were made with the [bskit](github.com/sjforeman/bskit) code from the IllustrisTNG, Illustris, EAGLE, and BAHAMAS simulation suites at redshifts 0, 1, 2, and 3. Please refer to the paper for more details about the measurement procedures and choices involved.
 
+Note that a wider variety of simulation power spectra (including from the BAHAMAS runs we use here, but up to higher wavenumbers and at more redshifts) can be found at Marcel van Daalen's website: [http://powerlib.strw.leidenuniv.nl](http://powerlib.strw.leidenuniv.nl).
+
 ## File formats
 
 ### Power spectra (`ps/`)
@@ -104,7 +106,6 @@ In addition, to recognize the tremendous amount of work that has gone into each 
 
 > Nelson et al., *The IllustrisTNG Simulations: Public Data Release*, 2018, arXiv:[1812.05609](https://arxiv.org/abs/1812.05609)
 
-
 ### Illustris (http://www.illustris-project.org)
 
 > Vogelsberger et al.,  *A model for cosmological simulations of galaxy formation physics*, [ Mon. Not. Roy. Astron. Soc., 436, 3031 (2013)](https://dx.doi.org/10.1093/mnras/stt1789), arXiv:[1305.2913](https://arxiv.org/abs/1305.2913) 
@@ -115,14 +116,14 @@ In addition, to recognize the tremendous amount of work that has gone into each 
 
 > Sijacki et al., *The Illustris simulation: the evolving population of black holes across cosmic time*,  [Mon. Not. Roy. Astron. Soc., 452, 575 (2015)](https://dx.doi.org/10.1093/mnras/stv1340), arXiv:[1408.6842](https://arxiv.org/abs/1408.6842) 
 
-
 ### EAGLE (http://icc.dur.ac.uk/Eagle/)
 
 > Schaye et al., *The EAGLE project: Simulating the evolution and assembly of galaxies and their environments*, [Mon. Not. Roy. Astron. Soc., 446, 521 (2015)](https://dx.doi.org/10.1093/mnras/stu2058), arXiv:[1407.7040](https://arxiv.org/abs/1407.7040) 
 
 > The EAGLE team, *The EAGLE simulations of galaxy formation: Public release of particle data*, 2017, arXiv:[1706.09899](https://arxiv.org/abs/1706.09899) 
 
-
 ### BAHAMAS (http://www.astro.ljmu.ac.uk/~igm/BAHAMAS/)
 
-> McCarthy et al., *The BAHAMAS project: Calibrated hydrodynamical simulations for large-scale structure cosmology*, [Mon. Not. Roy. Astron. Soc., 465, 2936 (2016)](https://dx.doi.org/10.1093/mnras/stw2792), arXiv:[1603.02702](https://arxiv.org/abs/1603.02702) 
+> McCarthy et al., *The BAHAMAS project: Calibrated hydrodynamical simulations for large-scale structure cosmology*, [Mon. Not. Roy. Astron. Soc., 465, 2936 (2017)](https://dx.doi.org/10.1093/mnras/stw2792), arXiv:[1603.02702](https://arxiv.org/abs/1603.02702) 
+
+> McCarthy et al., *The BAHAMAS project: the CMB--large-scale structure tension and the roles of massive neutrinos and galaxy formation*, [Mon. Not. Roy. Astron. Soc., 476, 2999 (2018)](https://dx.doi.org/10.1093/mnras/sty377), arXiv:[1712.02411](https://arxiv.org/abs/1712.02411) 
