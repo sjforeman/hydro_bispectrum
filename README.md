@@ -120,6 +120,10 @@ In addition, to recognize the tremendous amount of work that has gone into each 
 
 > Schaye et al., *The EAGLE project: Simulating the evolution and assembly of galaxies and their environments*, [Mon. Not. Roy. Astron. Soc., 446, 521 (2015)](https://dx.doi.org/10.1093/mnras/stu2058), arXiv:[1407.7040](https://arxiv.org/abs/1407.7040) 
 
+> Crain et al., *The EAGLE simulations of galaxy formation: calibration of subgrid physics and model variations*, [Mon. Not. Roy. Astron. Soc., 450, 1937 (2015)](https://doi.org/10.1093/mnras/stv725), arXiv:[1501.01311](https://arxiv.org/abs/1501.01311) 
+
+> McAlpine et al., *The EAGLE simulations of galaxy formation: public release of halo and galaxy catalogues*, [Astron. Comput., 15, 72 (2016)](https://doi.org/10.1016/j.ascom.2016.02.004), arXiv:[1510.01320](https://arxiv.org/abs/1510.01320) 
+
 > The EAGLE team, *The EAGLE simulations of galaxy formation: Public release of particle data*, 2017, arXiv:[1706.09899](https://arxiv.org/abs/1706.09899) 
 
 ### BAHAMAS (http://www.astro.ljmu.ac.uk/~igm/BAHAMAS/)
