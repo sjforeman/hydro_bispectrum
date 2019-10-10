@@ -2,7 +2,7 @@
 
 This repository contains power spectrum and bispectrum measurements presented in the following paper:
 
-> Foreman, Coulton, Villaescusa-Navarro, and Barreira, *Baryonic effects on the matter bispectrum*, 2019, arXiv:19mm.xxxxx
+> Foreman, Coulton, Villaescusa-Navarro, and Barreira, *Baryonic effects on the matter bispectrum*, 2019, arXiv:[1910.03597](https://arxiv.org/abs/1910.03597)
 
 These measurements were made with the [bskit](github.com/sjforeman/bskit) code from the IllustrisTNG, Illustris, EAGLE, and BAHAMAS simulation suites at redshifts 0, 1, 2, and 3. Please refer to the paper for more details about the measurement procedures and choices involved.
 
@@ -94,7 +94,7 @@ Triangle indices can be used to match these values to the corresponding triangle
 
 If any of these measurements are used in original research, please cite the associated paper:
 
-> Foreman, Coulton, Villaescusa-Navarro, and Barreira, *Baryonic effects on the matter bispectrum*, 2019, arXiv:19mm.xxxxx
+> Foreman, Coulton, Villaescusa-Navarro, and Barreira, *Baryonic effects on the matter bispectrum*, 2019, arXiv:[1910.03597](https://arxiv.org/abs/1910.03597)
 
 In addition, to recognize the tremendous amount of work that has gone into each simulation suite by the respective team, please cite the following papers (at minimum) if measurements from the corresponding simulations are used:
 
