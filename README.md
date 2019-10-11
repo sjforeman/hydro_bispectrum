@@ -100,15 +100,21 @@ In addition, to recognize the tremendous amount of work that has gone into each 
 
 ### IllustrisTNG (http://www.tng-project.org)
 
-> Pillepich et al., *Simulating Galaxy Formation with the IllustrisTNG Model*, [Mon. Not. Roy. Astron. Soc., 473, 4077 (2018)](https://dx.doi.org/10.1093/mnras/stx2656), arXiv:[1703.02970](https://arxiv.org/abs/1703.02970)
-   
-> Weinberger et al., *Supermassive black holes and their feedback effects in the IllustrisTNG simulation*, [Mon. Not. Roy. Astron. Soc., 479, 4056 (2018)](https://dx.doi.org/10.1093/mnras/sty1733), arXiv:[1710.04659](https://arxiv.org/abs/1710.04659)
+> Pillepich et al., *First results from the IllustrisTNG simulations: the stellar mass content of groups and clusters of galaxies*, [Mon. Not. Roy. Astron. Soc., 475, 648 (2018)](https://dx.doi.org/10.1093/mnras/stx3112), arXiv:[1707.03406](https://arxiv.org/abs/1707.03406)
+
+> Springel et al., *First results from the IllustrisTNG simulations: matter and galaxy clustering*, [Mon. Not. Roy. Astron. Soc., 475, 676 (2018)](https://dx.doi.org/10.1093/mnras/stx3304), arXiv:[1707.03397](https://arxiv.org/abs/1707.03397)
+
+> Nelson et al., *First results from the IllustrisTNG simulations: the galaxy color bimodality*, [Mon. Not. Roy. Astron. Soc., 475, 624 (2018)](https://dx.doi.org/10.1093/mnras/stx3040), arXiv:[1707.03395](https://arxiv.org/abs/1707.03395)
+
+> Naiman et al., *First results from the IllustrisTNG simulations: A tale of two elements -- chemical evolution of magnesium and europium*, [Mon. Not. Roy. Astron. Soc., 475, 624 (2018)](https://dx.doi.org/10.1093/mnras/sty618), arXiv:[1707.03401](https://arxiv.org/abs/1707.03401)
+
+> Marinacci et al., *First results from the IllustrisTNG simulations: radio haloes and magnetic fields*, [Mon. Not. Roy. Astron. Soc., 475, 624 (2018)](https://dx.doi.org/10.1093/mnras/sty2206), arXiv:[1707.03396](https://arxiv.org/abs/1707.03396)
 
 > Nelson et al., *The IllustrisTNG Simulations: Public Data Release*, 2018, arXiv:[1812.05609](https://arxiv.org/abs/1812.05609)
 
 ### Illustris (http://www.illustris-project.org)
 
-> Vogelsberger et al.,  *A model for cosmological simulations of galaxy formation physics*, [ Mon. Not. Roy. Astron. Soc., 436, 3031 (2013)](https://dx.doi.org/10.1093/mnras/stt1789), arXiv:[1305.2913](https://arxiv.org/abs/1305.2913) 
+> Vogelsberger et al.,  *A model for cosmological simulations of galaxy formation physics*, [Mon. Not. Roy. Astron. Soc., 436, 3031 (2013)](https://dx.doi.org/10.1093/mnras/stt1789), arXiv:[1305.2913](https://arxiv.org/abs/1305.2913) 
 
 > Vogelsberger  et al.,  *Properties of galaxies reproduced by a hydrodynamic simulation*,  [Nature, 509, 177 (2014)](https://dx.doi.org/10.1038/nature13316), arXiv:[1405.1418](https://arxiv.org/abs/1405.1418) 
 
