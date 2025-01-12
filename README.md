@@ -4,7 +4,7 @@ This repository contains power spectrum and bispectrum measurements presented in
 
 > Foreman, Coulton, Villaescusa-Navarro, and Barreira, *Baryonic effects on the matter bispectrum*, 2019, arXiv:[1910.03597](https://arxiv.org/abs/1910.03597)
 
-These measurements were made with the [bskit](github.com/sjforeman/bskit) code from the IllustrisTNG, Illustris, EAGLE, and BAHAMAS simulation suites at redshifts 0, 1, 2, and 3. Please refer to the paper for more details about the measurement procedures and choices involved.
+These measurements were made with the [bskit](https://github.com/sjforeman/bskit) code from the IllustrisTNG, Illustris, EAGLE, and BAHAMAS simulation suites at redshifts 0, 1, 2, and 3. Please refer to the paper for more details about the measurement procedures and choices involved.
 
 Note that a wider variety of simulation power spectra (including from the BAHAMAS runs we use here, but up to higher wavenumbers and at more redshifts) can be found at Marcel van Daalen's website: [http://powerlib.strw.leidenuniv.nl](http://powerlib.strw.leidenuniv.nl).
 
